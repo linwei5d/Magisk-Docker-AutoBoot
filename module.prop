@@ -1,0 +1,6 @@
+id=Docker
+name=Docker
+version=1.0
+versionCode=1
+author=Manster
+description=Automatically install docker.
